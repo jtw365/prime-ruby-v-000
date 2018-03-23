@@ -6,3 +6,5 @@ def prime?(num)
     n % x == 0
   end
 end
+end
+
